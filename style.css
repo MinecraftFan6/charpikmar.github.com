@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+h1 {
+    font-family: "Calibri", Times, sans-serif;
+    background-color: rgb(87, 87, 87);
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    margin: 0;
+}
+h2 {
+    font-family: "Calibri", Times, sans-serif;
+    color: rgb(0, 0, 0)
+}
+h3 {
+    font-family: "Calibri", Times, sans-serif;
+    color: rgb(0, 0, 0);
+    font-style: italic;
+}
+.note_style {
+    font-family: "Calibri", Times, sans-serif;
+    color: rgb(0, 0, 0);
+    font-style: italic;
+}
+p {
+    font-family: "Calibri", Times, sans-serif;
+}
